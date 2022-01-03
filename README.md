@@ -1,14 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Alex and I'm student from 🇺🇦Kyiv, Ukraine
+My name is Alex and I'm student from 🏙️Kyiv, Ukraine
 
 ### 📚 Education
 
-I'm currently at the IATE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
+I'm currently studying at the IATE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".<br>
 122 Computer Science
 
 ### 🔧 Technologies & Tools
-In progress
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
+
+### 📈 GitHub Stats
+
+
 <!--
 **xairaven/xairaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
