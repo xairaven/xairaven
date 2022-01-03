@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Alex and I'm student from 🇺🇦Kyiv, Ukraine
+
+### 📚 Education
+
+I'm currently at the IATE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
+122 Computer Science
+
+### 🔧 Technologies & Tools
+In progress
 <!--
 **xairaven/xairaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
