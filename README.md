@@ -7,6 +7,10 @@ My name is Alex and I'm student from 🏙️Kyiv, Ukraine
 I'm currently studying at the IATE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".<br>
 122 Computer Science
 
+### 🏆 Repositories
+- <a href="https://github.com/xairaven/kpi_labs">Programming Labs</a>
+- <a href="https://github.com/xairaven/LaTeX">LaTeX learning progress</a>
+
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
