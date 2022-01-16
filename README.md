@@ -10,7 +10,7 @@ I'm currently studying at the IATE, National Technical University of Ukraine "Ig
 ### 🏆 Repositories
 - <a href="https://github.com/xairaven/kpi_labs">Programming Labs</a>
 - <a href="https://github.com/xairaven/SedgewickAlg">"Algorithms in Java" learning progress</a>
-- <a href="https://github.com/xairaven/LaTeX">LaTeX learning progress</a>
+- <a href="https://github.com/xairaven/Algorithms-Data-Structures">Algorithms & Data Structures</a>
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
