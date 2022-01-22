@@ -35,7 +35,7 @@ I'm currently studying at the IATE, National Technical University of Ukraine "Ig
 </p>
 
 ### 🔥 Github Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TopCodeBeast" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="xairaven" /></p>
 
 <p>
   <a href="https://t.me/xairaven"><img src="https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram"/></a>
