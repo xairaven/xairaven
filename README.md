@@ -4,7 +4,7 @@ My name is Alex and I'm student from 🏙️Kyiv, Ukraine
 
 ### 📚 Education
 
-I'm currently studying at the IATE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".<br>
+I'm currently studying at the INHPE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".<br>
 122 Computer Science
 
 ### 🏆 Repositories
