@@ -15,8 +15,6 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/IDE-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C%2B%2B&logoColor=white&color=5194f0)
 
