@@ -10,18 +10,18 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
 
 <div align="center">
   
-  My favourite programming languages:
+  **My favourite programming languages:**
 
   [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=java&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-005494?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
-  Technologies:
+  **Technologies:**
 
   [![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=%f05033)](#)
   [![Intellij](https://img.shields.io/badge/Intellij%20Idea-ac1e1e?style=for-the-badge&logo=intellij-idea&logoColor=%f05033)](#)
   [![VS Code](https://img.shields.io/badge/VS%20Code-0089ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
   
-  OS:
+  **OS:**
   
   [![Windows](https://img.shields.io/badge/Windows-%230095D5.svg?style=for-the-badge&logo=windows&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)](#)
