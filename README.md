@@ -1,24 +1,51 @@
 ## Hi there 👋
 
-My name is Alex and I'm student from 🏙️Kyiv, Ukraine
+My name is Alex and I'm student from 🏙️Kyiv, Ukraine. 
 
-### 📚 Education
+I'm currently studying at the INHPE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
 
-I'm currently studying at the INHPE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".<br>
 122 Computer Science
 
-### 🏆 Repositories
-- <a href="https://github.com/xairaven/Algorithms-Data-Structures">Algorithms & Data Structures</a>
-- <a href="https://github.com/xairaven/SedgewickAlg">"Algorithms in Java" learning progress</a>
-- <a href="https://github.com/xairaven/kpi_labs">Programming Labs (KPI)</a>
+---
 
-### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C%2B%2B&logoColor=white&color=5194f0)
+<div align="center">
+  
+  My favourite programming languages:
 
-### 🔎 Github Profile Details
+  [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=java&logoColor=white)](#)
+  [![C++](https://img.shields.io/badge/C++-005494?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+
+  Technologies:
+
+  [![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=%f05033)](#)
+  [![Intellij](https://img.shields.io/badge/Intellij%20Idea-ac1e1e?style=for-the-badge&logo=intellij-idea&logoColor=%f05033)](#)
+  [![VS Code](https://img.shields.io/badge/VS%20Code-0089ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+  
+  OS:
+  
+  [![Windows](https://img.shields.io/badge/Windows-%230095D5.svg?style=for-the-badge&logo=windows&logoColor=white)](#)
+  [![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)](#)
+
+</div>
+
+---
+
+<details>
+  <summary><b>Repositories</b></summary>
+  <br>
+  <ul>
+    <li><a href = "https://github.com/xairaven/Algorithms-Data-Structures">Algorithms & Data Structures</a></li>
+    <li><a href="https://github.com/xairaven/SedgewickAlg">"Algorithms in Java" learning progress</a></li>
+    <li><a href="https://github.com/xairaven/kpi_labs">Programming Labs (KPI)</a></li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary><b>My GitHub Stats</b></summary>
+  
+  ### 🔎 Github Profile Details
+  
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xairaven&theme=github_dark" alt="xairaven" align = "center"/></p>
 
 ### 📈 GitHub Stats
@@ -34,6 +61,8 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
 
 ### 🔥 Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="xairaven" /></p>
+  
+</details>
 
 <p>
   <a href="https://t.me/xairaven"><img src="https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram"/></a>
