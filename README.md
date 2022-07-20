@@ -12,7 +12,7 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
   
   **My favourite programming languages:**
 
-  [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=java&logoColor=white)](#)
+  [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-005494?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
   **Technologies:**
