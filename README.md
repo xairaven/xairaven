@@ -11,10 +11,10 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
 <div align="center">
   
   **My favourite programming languages:**
-
+  
+  [![C#](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
   [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
-  [![C++](https://img.shields.io/badge/C++-005494?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-
+  
   **Technologies:**
 
   [![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=%f05033)](#)
@@ -66,5 +66,5 @@ I'm currently studying at the INHPE, National Technical University of Ukraine "I
 
 <p>
   <a href="https://t.me/xairaven"><img src="https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram"/></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xairaven.visitor-badge&color=5194f0" />
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=xairaven.visitor-badge&color=5194f0" /> -->
 </p>
