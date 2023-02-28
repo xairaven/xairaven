@@ -1,70 +1,37 @@
-## Hi there 👋
 
-My name is Alex and I'm student from 🏙️Kyiv, Ukraine. 
+<h1 align="center">Hi there!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer Science student from Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3> 
 
-I'm currently studying at the INHPE, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".
+----
 
-122 Computer Science
+### :man_technologist: About Me :
 
----
+My name is Alex, and I'm a .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyiv.
 
-<div align="center">
-  
-  **My favourite programming languages:**
-  
-  [![C#](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
-  [![Java](https://img.shields.io/badge/Java-de8a1f?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
-  
-  **Technologies:**
+- :seedling: Studying in Igor Sikorsky Kyiv Polytechnic Institute.
 
-  [![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=%f05033)](#)
-  [![Intellij](https://img.shields.io/badge/Intellij%20Idea-ac1e1e?style=for-the-badge&logo=intellij-idea&logoColor=%f05033)](#)
-  [![VS Code](https://img.shields.io/badge/VS%20Code-0089ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-  
-  **OS:**
-  
-  [![Windows](https://img.shields.io/badge/Windows-%230095D5.svg?style=for-the-badge&logo=windows&logoColor=white)](#)
-  [![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)](#)
+- :telescope: I'm a computer programmer, majoring in Backend and DevOps.
 
-</div>
+- :zap: In my free time, I create pet-projects and read tech articles.
 
----
+----
 
-<details>
-  <summary><b>Repositories</b></summary>
-  <br>
-  <ul>
-    <li><a href = "https://github.com/xairaven/Algorithms-Data-Structures">Algorithms & Data Structures</a></li>
-    <li><a href="https://github.com/xairaven/SedgewickAlg">"Algorithms in Java" learning progress</a></li>
-    <li><a href="https://github.com/xairaven/kpi_labs">Programming Labs (KPI)</a></li>
-  </ul>
-  
-</details>
+### :hammer_and_wrench: Languages and Tools :
 
-<details>
-  <summary><b>My GitHub Stats</b></summary>
-  
-  ### 🔎 Github Profile Details
-  
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xairaven&theme=github_dark" alt="xairaven" align = "center"/></p>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,git,linux,bash,idea)](https://skillicons.dev)
 
-### 📈 GitHub Stats
+----
 
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=xairaven&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xairaven&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
-</p>
+### :bell: Connect with me :
 
-### 🔥 Github Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="xairaven" /></p>
-  
-</details>
+[![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xairaven)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/xairaven/)
 
-<p>
-  <a href="https://t.me/xairaven"><img src="https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram"/></a>
-  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=xairaven.visitor-badge&color=5194f0" /> -->
-</p>
+----
+
+### :fire: My Stats :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xairaven&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xairaven&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xairaven&theme=github_dark)
