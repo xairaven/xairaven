@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm **Alex**, a software engineer majoring in **Backend development** and **DevOps**.
 
