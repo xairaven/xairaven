@@ -43,8 +43,6 @@ Actively contributing to different projects in my spare time.
   
 </details>
 
-<p>
-  <a href="https://t.me/xairaven"><img src="https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram" /></a>
-  <a href="http://linkedin.com/in/xairaven/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xairaven.visitor-badge&color=5194f0" />
-</p>
+[![Telegram](https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram)](https://t.me/xairaven)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/xairaven/)
+[![CounterAPI](https://komarev.com/ghpvc/?username=xairaven&color=blueviolet&style=flat-square)]()
