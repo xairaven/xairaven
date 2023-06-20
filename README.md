@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Alex**, a software engineer majoring in **Backend development** and **DevOps**.
+I'm **Alex**, a software engineer majoring in **Backend development**.
 
 Actively contributing to different projects in my spare time.
 
