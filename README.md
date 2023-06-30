@@ -17,12 +17,12 @@ Actively contributing to different projects in my spare time.
 
 <details>
   <summary><b>Repositories</b></summary>
-  <br>
-  <ul>
-    <li><a href = "https://github.com/xairaven/Algorithms-Data-Structures">Algorithms & Data Structures</a></li>
-    <li><a href="https://github.com/xairaven/SedgewickAlg">"Algorithms in Java" learning progress</a></li>
-    <li><a href="https://github.com/xairaven/kpi_labs">Programming Labs (KPI)</a></li>
-  </ul>
+  
+  - [Programming Labs (Kyiv Politechnic Institute)](https://github.com/xairaven/KPI-Labs)
+  - [Algorithms & Data Structures (Java)](https://github.com/xairaven/JavaAlgorithms)
+  - ["Algorithms in Java" learning process](https://github.com/xairaven/SedgewickAlg)
+  - [Rust Book learning process](https://github.com/xairaven/Rust-Learning)
+  - [.NET Crypto-system (with WPF UI)](https://github.com/xairaven/Crypto-system)
   
 </details>
 
@@ -38,6 +38,7 @@ Actively contributing to different projects in my spare time.
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xairaven&theme=github_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xairaven&theme=github_dark)
 
+
   ### 🔥 Github Streaks
   ![](https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
   
@@ -45,4 +46,4 @@ Actively contributing to different projects in my spare time.
 
 [![Telegram](https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram)](https://t.me/xairaven)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/xairaven/)
-[![CounterAPI](https://komarev.com/ghpvc/?username=xairaven&color=blueviolet&style=flat-square)]()
+[![CounterAPI](https://komarev.com/ghpvc/?username=xairaven&color=blue&style=flat-square)]()
