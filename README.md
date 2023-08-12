@@ -37,7 +37,8 @@ Actively contributing to different projects in my spare time.
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xairaven&theme=github_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xairaven&theme=github_dark)
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xairaven&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xairaven&theme=github_dark)
 
   ### 🔥 Github Streaks
   ![](https://github-readme-streak-stats.herokuapp.com/?user=xairaven&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
