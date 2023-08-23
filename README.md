@@ -47,5 +47,5 @@ Actively contributing to different projects in my spare time.
 
 [![Telegram](https://img.shields.io/badge/-xairaven-5194f0?style=flat-square&logo=Telegram)](https://t.me/xairaven)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/xairaven/)
-[![WakaTime](https://wakatime.com/badge/user/2245ab4e-d4c6-4b22-a33e-2df40b980bdd.svg?style=flat-square)]()
+[![WakaTime](https://wakatime.com/badge/user/2245ab4e-d4c6-4b22-a33e-2df40b980bdd.svg?style=flat-square)](https://wakatime.com/@xairaven)
 [![CounterAPI](https://komarev.com/ghpvc/?username=xairaven&color=blue&style=flat-square)]()
