@@ -18,7 +18,7 @@ Actively contributing to different projects in my spare time.
 <details>
   <summary><b>Repositories</b></summary>
   
-  - [Programming Labs (Kyiv Politechnic Institute)](https://github.com/xairaven/KPI-Labs)
+  - [Programming Labs (Kyiv Polytechnic Institute)](https://github.com/xairaven/KPI-Labs)
   - [Algorithms & Data Structures (Java)](https://github.com/xairaven/JavaAlgorithms)
   - ["Algorithms in Java" learning process](https://github.com/xairaven/SedgewickAlg)
   - [Rust Book learning process](https://github.com/xairaven/Rust-Learning)
