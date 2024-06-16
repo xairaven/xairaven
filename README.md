@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Alex**, a software engineer majoring in **Backend development**.
+I'm **Alex**, a software engineer majoring in **Backend development** & **DevOps**.
 
 Actively contributing to different projects in my spare time.
 
@@ -9,11 +9,10 @@ Actively contributing to different projects in my spare time.
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![JS](https://img.shields.io/badge/JS-EFD81D?style=for-the-badge&logo=Javascript&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/MSSQL-67707a?style=for-the-badge&logo=microsoftsqlserver&logoColor=AF3035)](#)
 [![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-%230095D5.svg?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-333333?style=for-the-badge&logo=git&logoColor=%f05033)](#)
-[![Rider](https://img.shields.io/badge/Rider-ac1e1e?style=for-the-badge&logo=rider&logoColor=%f05033)](#)
 
 <details>
   <summary><b>Repositories</b></summary>
