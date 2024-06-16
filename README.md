@@ -18,10 +18,10 @@ Actively contributing to different projects in my spare time.
   <summary><b>Repositories</b></summary>
   
   - [Programming Labs (Kyiv Polytechnic Institute)](https://github.com/xairaven/KPI-Labs)
+  - [Certificates](https://github.com/xairaven/certificates)
   - [Algorithms & Data Structures (Java)](https://github.com/xairaven/JavaAlgorithms)
-  - ["Algorithms in Java" learning process](https://github.com/xairaven/SedgewickAlg)
   - [Rust Book learning process](https://github.com/xairaven/Rust-Learning)
-  - [.NET Crypto-system (with WPF UI)](https://github.com/xairaven/Crypto-system)
+  - [dotfiles](https://github.com/xairaven/dotfiles)
   
 </details>
 
