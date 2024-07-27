@@ -4,7 +4,7 @@ My name is **Alex**. I am a computer person 🤖
 
 Сurrently studying at the INHPE, Igor Sikorsky Kyiv Polytechnic Institute.
 
-- ⚙️ I use daily: `.cs`, `.rs`, `js`, `.sql`, `.sh`
+- ⚙️ I use daily: `.cs`, `.rs`, `.js`, `.sql`, `.sh`
 - 🔨 Actively contributing to different projects in my spare time.
 - 🤓 My uni labs: [KPI-Labs](https://github.com/xairaven/KPI-Labs)
 - 📶 Interested in computer networks, system administration, programming in general, etc.
