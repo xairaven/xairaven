@@ -2,7 +2,7 @@
 
 I'm **Alex**, a recent Computer Science graduate from Igor Sikorsky Kyiv Polytechnic Institute. <br>
 Currently, I'm pursuing my **Master's degree** at the same university,
-majoring in *Software Computer Engineering of Computer Systems*. <br>
+majoring in *Computer Systems Software Engineering*. <br>
 I'm passionate about systems-level programming, network engineering, and building reliable, efficient software 🤖
 
 - ⚙️ I use daily: `.rs`, `.c`, `.sql`, `.sh`, `.cs`
