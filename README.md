@@ -7,7 +7,7 @@ I'm passionate about systems-level programming, network engineering, and buildin
 
 - ⚙️ I use daily: `.rs`, `.c`, `.sql`, `.sh`, `.cs`
 - 🔨 Actively contributing to different projects in my spare time.
-- 🤓 My bachelor's uni labs: [KPI-Labs](https://github.com/xairaven/KPI-Labs)
+- 🤓 My uni labs: [KPI-Labs](https://github.com/xairaven/KPI-Labs)
 - 📶 Interested in computer networks, system administration, programming in general, etc.
 
 [![Telegram](https://img.shields.io/badge/xairaven-black?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/xairaven)
